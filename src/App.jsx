@@ -1,9 +1,9 @@
 import React from 'react';
-import Meals from './componets/meals/Meals.jsx';
+import Calculator from './componets/Calculator/Calc';
 const App = () => {
     return (
         <div>
-           <Meals />
+           <Calculator />
         </div>
     );
 };
