@@ -1,9 +1,9 @@
 import React from 'react';
-import Calculator from './componets/Calculator/Calc';
+import ToggleBgColor  from "./componets/ToggleBgColor/ToggleBgColor.jsx";
 const App = () => {
     return (
         <div>
-           <Calculator />
+           <ToggleBgColor />
         </div>
     );
 };
