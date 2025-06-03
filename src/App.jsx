@@ -1,10 +1,10 @@
 import React from 'react';
-import Testimonials from './Projects/Testimonalias/Testimonalias.jsx'
+import Form from './Projects/FormValidation/Form.jsx'
 
 const App = () => {
     return (
         <div>
-           <Testimonials />
+          <Form />
         </div>
     );
 };
