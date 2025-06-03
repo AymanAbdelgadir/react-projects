@@ -1,9 +1,10 @@
 import React from 'react';
-import ToggleBgColor  from "./componets/ToggleBgColor/ToggleBgColor.jsx";
+import Testimonials from './Projects/Testimonalias/Testimonalias.jsx'
+
 const App = () => {
     return (
         <div>
-           <ToggleBgColor />
+           <Testimonials />
         </div>
     );
 };
