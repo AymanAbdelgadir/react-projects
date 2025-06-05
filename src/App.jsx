@@ -1,9 +1,9 @@
 import React from 'react';
-import ToggleBgColor  from "./componets/ToggleBgColor/ToggleBgColor.jsx";
+import HiddenScreenBar from "./componets/HiddenSearchBar/HiddenScreenBar.jsx";
 const App = () => {
     return (
         <div>
-           <ToggleBgColor />
+           <HiddenScreenBar />
         </div>
     );
 };
